@@ -1,4 +1,5 @@
 .idea
 cmd
 places.csv
-*.sqlite
+*.sqlite*
+*.dbf
